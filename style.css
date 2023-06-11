@@ -9,4 +9,6 @@ body{
 .container{
     width: 60%;
     margin: 0 auto;
+    background: cadetblue;
+    padding: 10px;
 }
